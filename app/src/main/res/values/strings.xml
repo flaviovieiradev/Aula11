@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aula11</string>
+    <string name="traducao">Selecione a tradução abaixo:</string>
+    <string name="p">Português</string>
+    <string name="e">Espanhol</string>
+    <string name="i">Inglês</string>
+    <string name="v">Volte ao normal</string>
+    <string name="po">Até logo</string>
+    <string name="es">Hasta Luego</string>
+    <string name="in">See you soon</string>
+    <string name="n">Texto</string>
+</resources>
